@@ -1,4 +1,4 @@
-Network File System (NFS) file shares are used frequently to conduct day-to-day business. However, the data in most on-premises NFS file server is often not adequately backed up or protected from a disaster at the primary data center. DataSync addresses many of these shortfalls. The service:
+Network File System (NFS) file shares are used frequently to conduct day-to-day business. However, the data in most on-premises NFS file servers is often not adequately backed up or protected from a disaster at the primary data center. DataSync addresses many of these shortfalls. The service:
 
 - Copies existing data from an on-premises NFS file server to Amazon Simple Storage Service (Amazon S3) for secure, redundant storage
 - Comes with a built-in scheduling mechanism enabling you to periodically execute a data transfer task to detect and copy changes from your source storage system to the destination.
